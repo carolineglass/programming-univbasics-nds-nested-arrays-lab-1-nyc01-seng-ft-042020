@@ -23,14 +23,14 @@ def assembled_matrix
   # Make sure conventional produce is first, on the 'zeroth' / 'bottom' shelf
   
 produce_storage_room = [
-  CONVENTIONAL_PRODUCE = [
+  [
   "Grapefruit",
   "Pineapple",
   "Oranges",
   "Watermelon",
   "Eggplant"
   ], 
-  ORGANIC_PRODUCE = [
+ [
   "Strawberries",
   "Potatoes",
   "Grapes",
