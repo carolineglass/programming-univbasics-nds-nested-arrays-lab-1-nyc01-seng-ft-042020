@@ -27,7 +27,7 @@ produce_storage_room = [CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE]
 end
 
 def sorted_matrix
- CONVENTIONAL_PRODUCE.sort
+ sorted_conventional_produce = CONVENTIONAL_PRODUCE.sort
  
   # Using Array literal syntax only, build another nested array that 
   # uses the arrays of conventional and organic produce as before.
