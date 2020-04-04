@@ -28,8 +28,9 @@ produce_storage_room = [
   "Pineapple",
   "Oranges",
   "Watermelon",
-  "Eggplant"]
-  , ORGANIC_PRODUCE = [
+  "Eggplant"
+  ], 
+  ORGANIC_PRODUCE = [
   "Strawberries",
   "Potatoes",
   "Grapes",
